@@ -1,0 +1,28 @@
+HACIENDA COBROS Autoliquidaciones <Caotura total telemática)
+
+Fecha Hora Oficina
+20/01/2026 10:15:35 0104 OLMEDO INGRESO
+
+Cod. Entidad:3085 CAJA RURAL DE ZAMORA
+
+NOInterno Doc: 2602000335 X Pres. Telen. te AR
+Modelo Liquid: 111 IRPF RETENCIONES Cod. Adnon: 47600 Ejercicio
+NIF: 672821713 Anagrama Fiscal: Periodo: 4T
+Nombre y Apellidos
+o razón social: COMUNIDAD DE REGANTES DE ALCAZAREN
+
+NoJustificante:111641305306 1 Cuota Diferencial: 740,68 — EUR
+
+Pago Completo
+
+Inp.ler. Plazo: 740,68 Imp.Futuro/s Plazo: 0,00
+Ac.Domic. Futuro/s Plazos: 0000000000 Centro
+
+Forma de cobro:  Adeudo en Ac. Número: ESB730850104192774196121 Centro: 0104
+Fecha de Operación: 20/01/26 Hora de Operación: 10:15:35
+
+Este adeudo surte los efectos liberatorios para con el Tesoro Público
+previstas en el Reglamento General de Recaudación.
+
+El ingreso de la deuda no exime de la obligación de presentar la
+autoliquidación.
