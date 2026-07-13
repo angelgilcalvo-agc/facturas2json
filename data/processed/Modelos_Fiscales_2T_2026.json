@@ -1,0 +1,127 @@
+{
+    "Modelo_303": {
+        "Periodo": "2T 2026",
+        "NIF_Declarante": "34975084L",
+        "Nombre_Declarante": "ANA BELEN FEIJOO VIDUEIRA",
+        "IVA_Devengado": {
+            "Regimen_General_21": {
+                "Base": 40044.27,
+                "Tipo": 0.21,
+                "Cuota": 8415.46,
+                "Casillas": [
+                    "01",
+                    "02",
+                    "03"
+                ]
+            },
+            "Regimen_General_10": {
+                "Base": 4036.81,
+                "Tipo": 0.1,
+                "Cuota": 403.46,
+                "Casillas": [
+                    "04",
+                    "05",
+                    "06"
+                ]
+            },
+            "Adquisiciones_Intracomunitarias_Bienes": {
+                "Base": 851.43,
+                "Tipo": 0.21,
+                "Cuota": 178.8,
+                "Casillas": [
+                    "10",
+                    "11"
+                ]
+            },
+            "Otras_Inversiones_Sujeto_Pasivo_Servicios": {
+                "Base": 69.82,
+                "Tipo": 0.21,
+                "Cuota": 14.66,
+                "Casillas": [
+                    "12",
+                    "13"
+                ]
+            },
+            "Total_Devengado": {
+                "Cuota": 9012.38,
+                "Casilla": "27"
+            }
+        },
+        "IVA_Deducible": {
+            "Operaciones_Interiores_Corrientes": {
+                "Base": 30618.68,
+                "Cuota": 6355.39,
+                "Casillas": [
+                    "28",
+                    "29"
+                ]
+            },
+            "Adquisiciones_Intracomunitarias_Bienes": {
+                "Base": 851.43,
+                "Cuota": 178.8,
+                "Casillas": [
+                    "36",
+                    "37"
+                ]
+            },
+            "Adquisiciones_Intracomunitarias_Servicios": {
+                "Base": 69.82,
+                "Cuota": 14.66,
+                "Casillas": [
+                    "40",
+                    "41"
+                ]
+            },
+            "Total_Deducible": {
+                "Cuota": 6548.85,
+                "Casilla": "46"
+            }
+        },
+        "Resultado_Fin": {
+            "Diferencia": 2463.53,
+            "Casilla_71": 2463.53,
+            "Concepto": "A ingresar (A pagar)"
+        }
+    },
+    "Modelo_115": {
+        "Periodo": "2T 2026",
+        "NIF_Declarante": "34975084L",
+        "Nombre_Declarante": "ANA BELEN FEIJOO VIDUEIRA",
+        "Retenciones_Alquiler": {
+            "Numero_Perceptores": 1,
+            "Base_Retenciones": 280.0,
+            "Porcentaje": 0.19,
+            "Retenciones_Ingresadas": 53.2,
+            "Casillas": {
+                "Perceptores": "01",
+                "Base_Imponible": "02",
+                "Retenciones": "03"
+            }
+        },
+        "Resultado_Fin": {
+            "Resultado": 53.2,
+            "Concepto": "A ingresar (A pagar)"
+        }
+    },
+    "Modelo_111": {
+        "Periodo": "2T 2026",
+        "NIF_Declarante": "34975084L",
+        "Nombre_Declarante": "ANA BELEN FEIJOO VIDUEIRA",
+        "Retenciones_Trabajadores_Profesionales": {
+            "Rendimientos_Trabajo": {
+                "Perceptores": 0,
+                "Base": 0.0,
+                "Retencion": 0.0
+            },
+            "Rendimientos_Actividades_Profesionales": {
+                "Perceptores": 0,
+                "Base": 0.0,
+                "Retencion": 0.0
+            }
+        },
+        "Resultado_Fin": {
+            "Resultado": 0.0,
+            "Concepto": "Sin actividad/importes"
+        }
+    }
+}
