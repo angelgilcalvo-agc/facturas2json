@@ -1,0 +1,54 @@
+========================================================================
+INFORME DE ANÁLISIS DE GASTOS Y ELABORACIÓN DE LIBROS REGISTRO - Q2 2026
+========================================================================
+Contribuyente: Gonzalo Palenzuela Lopez
+DNI/NIF:       09316264E
+Actividad:     Afinación y Reparación de Pianos
+Período:       Segundo Trimestre 2026 (Q2: Abril, Mayo, Junio)
+Estado:        LIBROS REGISTRO Y CÁLCULO GLOBAL DE IMPUESTOS PROCESADOS
+
+1. RESUMEN DE COMPROBACIÓN DE DOCUMENTOS (FACTURAS RECIBIDAS)
+------------------------------------------------------------------------
+Se han procesado un total de 14 archivos PDF en la carpeta de entrada:
+- O2 (Telecomunicaciones): 3 Facturas correspondientes a Abril, Mayo y Junio.
+- Trainline / Renfe (Viajes): 2 Billetes (facturas simplificadas) de tren Madrid-Valencia el 16 de mayo.
+- Cabify (Transporte): 1 Factura simplificada (Régimen Especial REAV) el 16 de mayo.
+- Uber (Transporte): 3 Recibos de viajes (Abril, Mayo).
+- Airbnb (Alojamiento): 1 Recibo de reserva en Valencia por 4 noches en junio.
+- Christina Achmadi (Alojamiento Bélgica): 1 Confirmación de reserva de 12 noches en Vilvoorde en mayo.
+- Taffijn Piano Supply (Herramientas intracomunitarias): 1 Factura de 6.96 € exenta de IVA.
+- Bono Renfe (Transporte): 1 Recibo de abono multi-viaje de junio (archivo duplicado 'renfe 1.pdf' conciliado correctamente).
+
+2. RESUMEN GLOBAL PARA MODELOS TRIMESTRALES DE IMPUESTOS
+------------------------------------------------------------------------
+A) MODELO 303 (IVA - SEGUNDO TRIMESTRE 2026)
+- IVA Repercutido / Devengado por Operaciones: 0.00 € (No se aportaron facturas emitidas de ingresos).
+- IVA Devengado por Adquisición Intracomunitaria (Inversión Sujeto Pasivo): 1.46 € (Taffijn Piano Supply).
+- IVA Soportado / Deducible en Operaciones Corrientes:
+  * Al tipo del 21%: 26.71 € (Suma de IVA de 3 facturas de O2: 8.68 € + 8.77 € + 9.26 €).
+  * Al tipo del 10%: 13.76 € (Trenes Trainline: 5.92 € + Bono Renfe: 7.84 €).
+  * Adquisiciones Intracomunitarias (IVA Soportado Inverso): 1.46 € (Taffijn Piano Supply).
+- TOTAL IVA Soportado Deducible: 41.93 €
+- RESULTADO DE LA LIQUIDACIÓN DEL MODELO 303: -40.47 € (A devolver / Compensar).
+
+B) MODELO 130 / ESTIMACIÓN DIRECTA REGLAMENTARIA (IRPF - GASTOS Q2)
+Un total de 111 operaciones de la tarjeta de crédito fueron analizadas y categorizadas:
+- Viajes de Negocios y Alojamiento: 2032.11 € (Airbnb, Estancia Bélgica, Restauración de viajes).
+- Transporte Profesional: 409.29 € (Billetes de tren, Uber/Cabify, peajes, metro y bus).
+- Vehículo afecto a la actividad: 672.70 € (Gastos de gasolinera, cambio de ruedas y tasas de ITV. Deducible según grado de afectación comercial).
+- Suministros y Telecomunicaciones: 153.86 € (Facturas de O2 Fibra/Móvil/TV).
+- Otros Gastos Profesionales: 213.40 € (Materiales de Taffijn, etc.).
+------------------------------------------------------------------------
+- TOTAL GASTOS DEDUCIBLES DEL SEGUNDO TRIMESTRE Q2 (IRPF): 3481.36 €
+- GASTOS EXCLUIDOS (NO DEDUCIBLES): 488.00 € (Cargo de la 'Clínica Hernade' del 13/05/2026, de carácter estrictamente personal/médico).
+
+3. REGISTRO OFICIAL Y EXPORTACIONES
+------------------------------------------------------------------------
+- Se ha generado el archivo oficial en Excel:
+  'data/processed/libro_registro_facturas_recibidas_q2_2026.xlsx'
+  Contiene tres hojas de cálculo de alta fidelidad con formato profesional:
+  1. 'Resumen Tributario Q2 2026' (Con el cálculo de casillas del Modelo 303 y Modelo 130).
+  2. 'Libro Facturas Recibidas Q2' (El Libro de Registro Oficial con todos los campos legales exigidos).
+  3. 'Movimientos Tarjeta Completo' (Los 111 movimientos conciliados, categorizados y con notas fiscales).
+
+========================================================================
