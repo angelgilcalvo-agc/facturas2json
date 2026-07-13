@@ -1,3 +1,5 @@
 .venv
 *.jsonl
 
+__pycache__/
+*.pyc
