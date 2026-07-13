@@ -1,3 +1,6 @@
 .venv
 *.jsonl
-
+__pycache__/
+*.pyc
+data/processed/libro_registro_impuestos_2026.xlsx
+data/interim/EXITER 2T 2026/jules_session_12187144919106167387*
